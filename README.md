@@ -1,9 +1,9 @@
-### Hi there, I'm Afzal Imam 👋
+### Hi there, I'm Estkhar Ansari 👋
 
 ## I'm a MERN-stack Developer and Blockchain Enthusiast!
 * 🔭  I build projects in free time
 * 🌍  I'm based in Odisha, India
-* ✉️  You can contact me at [afzalimam09@gmail.com](mailto:afzalimam09@gmail.com)
+* ✉️  You can contact me at [estkharansari123@gmail.com]
 * 🧠  I’m currently learning about Blockchain
 * 🤝  I'm open to collaborating on Open-Source Projects
 
