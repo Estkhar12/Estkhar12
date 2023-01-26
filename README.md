@@ -1,6 +1,6 @@
 ### Hi there, I'm Estkhar Ansari 👋
 
-## I'm a MERN-stack Developer!
+## I'm a NodeJs Developer!
 * 🔭  I build projects in free time
 * 🌍  I'm based in Odisha, India
 * ✉️  You can contact me at [estkharansari123@gmail.com]
