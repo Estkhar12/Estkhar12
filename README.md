@@ -1,10 +1,33 @@
-### Hi there, I'm Estkhar Ansari 👋
+<h1 align="center">Hi 👋, I'm Summaiya Begum</h1>
+<p align="center">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=600&margin=auto&lines=Hello%2CI'm++Summaiya+Begum;Frontend+Developer"/></p>
 
-## I'm a NodeJs Developer!
-* 🔭  I build projects in free time
-* 🌍  I'm based in Odisha, India
-* ✉️  You can contact me at [estkharansari123@gmail.com]
-* 🤝  I'm open to collaborating on Open-Source Projects
+<h3 align="center">A passionate MERN full stack developer from India</h3>
+<img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
+
+[![](https://visitcount.itsvg.in/api?id=summaiya-begum&label=Profile%20Views%20&color=10&pretty=true)](https://visitcount.itsvg.in)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- 🌱 I have completed Full Stack Web Development with **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Mongoose, GitLab, Tailwind, Chakra-UI, Data structures and Algorithms etc.**
+
+- 🔭 I’m currently working on backend technologies like  etc.
+
+- 💬 Talks about **React, Web-Design, Web-Development**
+
+- 📫 How to reach me **gzlfathima786@gmail.com**
+
+- 🔭 Know more about me **[Portfolio](https://Summaiya-Begum.github.io/)**
+
+
+
+- ⚡ Fun fact **I think I'm good in singing**
+
+
+## 🌐 Connect with me::
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/summaiya23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://summaiya-begum.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=instagram&logoColor=#FF7139)](https://www.instagram.com/its_me_summii_/)
 
 
 ### Skills
