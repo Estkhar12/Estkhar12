@@ -9,13 +9,13 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 🌱 I have completed Full Stack Web Development with **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, JWT, Mongoose, GitLab, Tailwind, Chakra-UI, Data structures and Algorithms etc.**
+- 🌱 I have completed Full Stack Web Development with **NodeJs, MongoDB, ExpressJS, Javascript, ReactJs,  Mongoose, HTML, CSS ,JWT, GitLab, Tailwind, Data structures and Algorithms etc.**
 
 - 🔭 I’m currently working on backend technologies like  etc.
 
-- 💬 Talks about **React, Web-Design, Web-Development**
+- 💬 Talks about **MERN Stack, Web-Development**
 
-- 📫 How to reach me **gzlfathima786@gmail.com**
+- 📫 How to reach me **estkharansari123@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://Summaiya-Begum.github.io/)**
 
@@ -38,12 +38,3 @@
 </div>
 <br/>
 <br/>
-
-### Connect with me:
-
-<p align="left"> 
-
-<a href="https://www.linkedin.com/in/estkhar-ansari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> 
-</p>
-
-<br />
