@@ -5,7 +5,7 @@
 <h3 align="center">A passionate MERN full stack developer from India</h3>
 <img align='right' src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
 
-[![](https://visitcount.itsvg.in/api?id=Estkhar12&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Estkhar12&label=Profile%20Views&color=10&icon=5&pretty=true)](https://github.com/Estkhar12)
 
 
 
