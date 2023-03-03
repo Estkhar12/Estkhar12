@@ -8,10 +8,6 @@
 [![](https://visitcount.itsvg.in/api?id=Estkhar12&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Estkhar12&label=Profile%20Views&color=10&icon=5&pretty=true" />
-</a>
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 🌱 I have completed Full Stack Web Development with **NodeJs, MongoDB, ExpressJS, Javascript, ReactJs,  Mongoose, HTML, CSS ,JWT, GitLab, Tailwind, Data structures and Algorithms etc.**
