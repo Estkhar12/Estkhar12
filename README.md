@@ -7,6 +7,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=summaiya-begum&label=Profile%20Views%20&color=10&pretty=true)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Estkhar12&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 🌱 I have completed Full Stack Web Development with **NodeJs, MongoDB, ExpressJS, Javascript, ReactJs,  Mongoose, HTML, CSS ,JWT, GitLab, Tailwind, Data structures and Algorithms etc.**
