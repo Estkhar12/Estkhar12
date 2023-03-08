@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **estkharansari123@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://Summaiya-Begum.github.io/)**
+- 🔭 Know more about me **[Portfolio](#)**
 
 
 
@@ -27,9 +27,9 @@
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estkhar-ansari/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://summaiya-begum.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=instagram&logoColor=#FF7139)](https://www.instagram.com/its_me_summii_/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=#FF7139)](https://www.instagram.com/its_me_summii_/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=#FF7139)](https://twitter.com/Estkharansari13)
 
 
 ### Skills
